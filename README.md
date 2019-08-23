@@ -12,3 +12,4 @@ if you want to any version ,you should build it by yourself
 [off site](https://github.com/uglide/RedisDesktopManager) down source to build it
 
 good luck
+
